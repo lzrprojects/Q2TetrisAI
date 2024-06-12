@@ -1,8 +1,8 @@
 from tsettings import *
 from sys import exit
-from tetrisgame import Game
-from tetrisscore import Score
-from tetrispreview import Preview
+from tsgame import Game
+from tscore import Score
+from tpreview import Preview
 
 
 class Main:
