@@ -1,4 +1,4 @@
-from tetrissettings import *
+from tsettings import *
 
 
 class Score:
