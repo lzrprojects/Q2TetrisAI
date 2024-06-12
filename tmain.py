@@ -1,4 +1,4 @@
-from tetrissettings import *
+from tsettings import *
 from sys import exit
 from tetrisgame import Game
 from tetrisscore import Score
