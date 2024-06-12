@@ -1,4 +1,4 @@
-from Tsettings import *
+from tsettings import *
 
 
 class Game:
