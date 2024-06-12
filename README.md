@@ -11,7 +11,6 @@ pygame to create game window, score, preview.
 established a game box
 added shapes in tsettings.py
 
-
 TO-DO:
 establish grid like in real tetris game.
 add a way to control pieces (move left, right, rotate, drop)
