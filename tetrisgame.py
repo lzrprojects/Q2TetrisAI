@@ -1,4 +1,4 @@
-from tetrissettings import *
+from Tsettings import *
 
 
 class Game:
