@@ -7,12 +7,12 @@ This project is started with the intentions to understand Q-based learning using
 As part of my fascination towards automation, AI, as well as machine learning. I have started this lengthy project to understand how reinforcement learning adapts and affects gameplay using tetris as a test environment. 
 
 Current progress: 
-- pygame to create game window, score, preview.
+- pygame to create game window, score, preview
 - established a game box
 - added shapes in tsettings.py
+- establish grid like in real tetris game
 
 TO-DO:
-- establish grid like in real tetris game.
 - add a way to control pieces (move left, right, rotate, drop)
 - game to auto clear when line is complete (follow up with how to calculate points based on number of cleared lines in a row >> display onto score window)
 - find a way to combine tscore.py and tpreview.py into 1 file 
